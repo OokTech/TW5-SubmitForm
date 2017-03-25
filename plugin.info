@@ -2,7 +2,7 @@
 	"title": "$:/plugins/OokTech/SubmitForm",
 	"description": "A simple action widget that lets you submit http form data",
 	"author": "OokTech",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"core-version": ">=5.1.6",
 	"source": "https://github.com/OokTech/TW5-SubmitForm",
 	"plugin-type": "plugin"
